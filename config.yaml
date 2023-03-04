@@ -1,0 +1,23 @@
+---
+id: kagoshima-rubykaigi02
+base_name: slide
+tags: ['ruby', 'python', 'quic']
+presentation_date: '2023-03-04'
+presentation_start_time:
+presentation_end_time:
+version: 1.0.0
+licenses: ['MIT']
+slideshare_id:
+speaker_deck_id:
+vimeo_id:
+youtube_id:
+width: 1200
+height: 675
+author:
+  markup_language: :rd
+  name: unasuke
+  email: yusuke1994525@gmail.com
+  rubygems_user: unasuke
+  slideshare_user:
+  speaker_deck_user:
+source_code_url: https://github.com/unasuke/kagoshima-rubykaigi02
